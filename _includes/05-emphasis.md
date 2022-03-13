@@ -1,2 +1,1 @@
-**
-C language**
+Skills **C language**
