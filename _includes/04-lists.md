@@ -1,3 +1,3 @@
-color-red
-color-green
-color-blue
+* color-red
+* color-green
+* color-blue
